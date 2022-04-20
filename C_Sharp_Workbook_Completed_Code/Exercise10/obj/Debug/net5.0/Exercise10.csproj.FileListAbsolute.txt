@@ -1,0 +1,15 @@
+C:\Users\Stuart\source\repos\C_Sharp_Workbook_Completed_Code\Exercise10\bin\Debug\net5.0\Exercise10.exe
+C:\Users\Stuart\source\repos\C_Sharp_Workbook_Completed_Code\Exercise10\bin\Debug\net5.0\Exercise10.deps.json
+C:\Users\Stuart\source\repos\C_Sharp_Workbook_Completed_Code\Exercise10\bin\Debug\net5.0\Exercise10.runtimeconfig.json
+C:\Users\Stuart\source\repos\C_Sharp_Workbook_Completed_Code\Exercise10\bin\Debug\net5.0\Exercise10.runtimeconfig.dev.json
+C:\Users\Stuart\source\repos\C_Sharp_Workbook_Completed_Code\Exercise10\bin\Debug\net5.0\Exercise10.dll
+C:\Users\Stuart\source\repos\C_Sharp_Workbook_Completed_Code\Exercise10\bin\Debug\net5.0\ref\Exercise10.dll
+C:\Users\Stuart\source\repos\C_Sharp_Workbook_Completed_Code\Exercise10\bin\Debug\net5.0\Exercise10.pdb
+C:\Users\Stuart\source\repos\C_Sharp_Workbook_Completed_Code\Exercise10\obj\Debug\net5.0\Exercise10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stuart\source\repos\C_Sharp_Workbook_Completed_Code\Exercise10\obj\Debug\net5.0\Exercise10.AssemblyInfoInputs.cache
+C:\Users\Stuart\source\repos\C_Sharp_Workbook_Completed_Code\Exercise10\obj\Debug\net5.0\Exercise10.AssemblyInfo.cs
+C:\Users\Stuart\source\repos\C_Sharp_Workbook_Completed_Code\Exercise10\obj\Debug\net5.0\Exercise10.csproj.CoreCompileInputs.cache
+C:\Users\Stuart\source\repos\C_Sharp_Workbook_Completed_Code\Exercise10\obj\Debug\net5.0\Exercise10.dll
+C:\Users\Stuart\source\repos\C_Sharp_Workbook_Completed_Code\Exercise10\obj\Debug\net5.0\ref\Exercise10.dll
+C:\Users\Stuart\source\repos\C_Sharp_Workbook_Completed_Code\Exercise10\obj\Debug\net5.0\Exercise10.pdb
+C:\Users\Stuart\source\repos\C_Sharp_Workbook_Completed_Code\Exercise10\obj\Debug\net5.0\Exercise10.genruntimeconfig.cache
