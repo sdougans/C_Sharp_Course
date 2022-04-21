@@ -12,3 +12,8 @@ The 'Workbook' folder contains all of the materials for the additional C# Workbo
 - 'Workbook_Exercises' contains a pdf of the workbook questions
 - 'C_Sharp_Workbook_Completed_Code' contains the completed code for the exercises in the workbook
 - Note: there are zip version of both of these folders for easy download
+
+## How to view the code:
+Download the folder containing the completed code and double click on the file 'C_Sharp_Course_Completed_Code.sln' or 'C_Sharp_Workbook_Completed_Code.sln' and the code will open in Visual Studio (or Visual Studio Code depending on your local setup).
+
+Alternatively, you can just view the code here on GitHub.
