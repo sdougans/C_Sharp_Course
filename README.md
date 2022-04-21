@@ -17,3 +17,9 @@ The 'Workbook' folder contains all of the materials for the additional C# Workbo
 Download the folder containing the completed code and double click on the file 'C_Sharp_Course_Completed_Code.sln' or 'C_Sharp_Workbook_Completed_Code.sln' and the code will open in Visual Studio (or Visual Studio Code depending on your local setup).
 
 Alternatively, you can just view the code here on GitHub.
+
+## Usage of these files
+These files for use only by those who have completed the 'Introduction to C# course' and/or have been invited to view this repository. Files contained in this repository are for personal use only, and should not be redistributed.
+
+## Future updates:
+Please note that updates may be made in future to the files in this repository. Where possible, a snapshot will be taken before any major changes are made, and stored in a dated folder, e.g. March_2022. 
