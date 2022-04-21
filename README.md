@@ -18,7 +18,7 @@ Download the folder containing the completed code and double click on the file '
 
 Alternatively, you can just view the code here on GitHub.
 
-## Usage of these files
+## Usage of these files:
 These files for use only by those who have completed the 'Introduction to C# course' and/or have been invited to view this repository. Files contained in this repository are for personal use only, and should not be redistributed.
 
 ## Future updates:
